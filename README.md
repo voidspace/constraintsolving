@@ -2,14 +2,14 @@ This is an example of a constraints solving problem from codewars.com. I don't t
 
 The code includes:
 
-* tests.py the tests, from codewars
+* test.py the tests, from codewars
 * main.py my solution
 * constraints.py which is a constraint solving mini-framework from the book Classic Computer Science Problems in Python, some free content from Manning 
 
 https://freecontent.manning.com/constraint-satisfaction-problems-in-python/
 https://github.com/davecom/ClassicComputerScienceProblemsInPython/blob/master/Chapter3/csp.py
 
-Run tests.py to run the tests. constraints.py uses generic types, so requires Python 3.7 or more recent.
+Run test.py to run the tests. constraints.py uses generic types, so requires Python 3.7 or more recent.
 
 The 'top-level' function is find_out_mr_wrong which is at the bottom of main.py.
 
