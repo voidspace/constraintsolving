@@ -9,7 +9,7 @@ The code includes:
 https://freecontent.manning.com/constraint-satisfaction-problems-in-python/
 https://github.com/davecom/ClassicComputerScienceProblemsInPython/blob/master/Chapter3/csp.py
 
-Run test.py to run the tests. constraints.py uses generic types, so requires Python 3.7 or more recent.
+Run test.py to run the tests. constraints.py uses generic types, so requires Python 3.7+. The solution uses the walrus operator and so requires Python 3.8+.
 
 The 'top-level' function is find_out_mr_wrong which is at the bottom of main.py.
 
